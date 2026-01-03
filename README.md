@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Chandu, a designer and devloper from India.
 
-I design and build what Interactive and Cool websites.
+I design and build Interactive and Cool websites.
 
 if an idea comes into my mind i try to turn it into practical and learn from my mistakes
 and improve upon it.
