@@ -12,6 +12,8 @@ I also use Figma for my UI design and create site map.
 
 I am Still learning Profile many stuff and i'll be uploading smaller projects,experiments 
 and things I'm currently working on.Everything here is built in scratch, no copy/templates.
+
+<hr style="height:4px; background-color:#333; width:80%; border:none;">
 <!--
 **Switch08/Switch08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
