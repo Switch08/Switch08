@@ -19,7 +19,7 @@ and things I'm currently working on.Everything here is built in scratch, no copy
  <uL>
    <li>React, Tailwind CSS, Threejs</li>
    <li>Framer Motion for animations</li>
-   <li>Figma for create layouts and wireframe</li>
+   <li>Figma for creating layouts and wireframe</li>
  </uL>
 
 <hr style="height:4px; background-color:#333; width:80%; border:none;">
