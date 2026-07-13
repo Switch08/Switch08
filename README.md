@@ -6,7 +6,7 @@ I design and build Interactive and Cool websites.
 if an idea comes into my mind i try to turn it into practical and learn from my mistakes
 and improve upon it.
 
-I mostly work on React Js, Tailwind CSS, Nodejs {express} and Postgre.
+I mostly work on React Js, Tailwind CSS, Node.js, Express and MySQL.
 
 I also use Figma for my UI design and create site map.
 
